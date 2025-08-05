@@ -1,2 +1,2 @@
 # Networking-labs
-Labs and notes for CCNP ENCOR and related topics .
+Labs and notes for cisco devices and related topics 
