@@ -138,7 +138,7 @@ Two approaches to summarization:
 ## Configuration Examples
 
 ### Stub Area
-![OSPF Topology](topology.png)
+![OSPF Topology](ospf-stub.png)
 
 on Router 5,8,10
 
