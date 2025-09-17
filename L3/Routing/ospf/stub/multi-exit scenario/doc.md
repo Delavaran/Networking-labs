@@ -143,15 +143,15 @@ and for inter area external routes since R3 has higher metric for the default ro
 
 **configuration :**
 
-![rib on R7 before ](Screenshot from 2025-09-17 14-57-41.png)
+![rib on R7 before ](wqdqwdqd.png)
 
-![R7 config before](Screenshot from 2025-09-17 14-59-24.png)
+![R7 config before](wqdqwdqd2.png)
 
-![config on R7](Screenshot from 2025-09-17 15-01-09.png)
+![config on R7](wqdqwdqd3.png)
 
-![config on R6](Screenshot from 2025-09-17 15-02-16.png)
+![config on R6](wqdqwdqd4.png)
 
-![result on R7](Screenshot from 2025-09-17 15-03-14.png)
+![result on R7](wqdqwdqd5.png)
 
 
 **What to check**
