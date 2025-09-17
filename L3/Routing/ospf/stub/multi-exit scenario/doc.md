@@ -142,14 +142,18 @@ even though the cost to R3 is higher, since its the only router that advertises 
 and for inter area external routes since R3 has higher metric for the default route, then R7 would choose R6's default route .
 
 **configuration :**
-
+before :
 ![rib on R7 before ](wqdqwdqd.png)
 
 ![R7 config before](wqdqwdqd2.png)
 
+changing the config on R7 and R6 :
+
 ![config on R7](wqdqwdqd3.png)
 
 ![config on R6](wqdqwdqd4.png)
+
+result :
 
 ![result on R7](wqdqwdqd5.png)
 
