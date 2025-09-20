@@ -12,7 +12,9 @@ In this case, **R6** is elected as the translator.
 We can verify this in two ways:
 
 - By checking R6’s OSPF process:
+
 ![R6 ospf](R6-ospf.png)
+
 
 - Or by inspecting the **Advertising Router field** in the translated Type-5 LSAs:
 ```bash
