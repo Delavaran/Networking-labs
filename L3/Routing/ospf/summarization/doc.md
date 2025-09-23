@@ -428,6 +428,7 @@ Link ID         ADV Router      Age         Seq#       Checksum Tag
 ```
 #### NSSA summarization on the ABR : 
 We can also perform the summarization on the Abr , the differenece to the previous method would be the subset prefixes would be visible in the **Nssa** and then be suppressed while translating to **Area 0**
+* in Nssa, if the Abr summarizes type-7 lsa the forward address would be all zero's. nut if the Asbr generates the summary, forward address would not be zero
 
 * lets undo the previous summarization by removing the summary-address on R7 :
 
